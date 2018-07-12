@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Filetest1</string>
+    <string name="inputname">输入用户名</string>
+    <string name="inputpassword">输入密码</string>
+    <string name="savepassword">保存密码</string>
+</resources>
