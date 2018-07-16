@@ -51,7 +51,18 @@
             android:onClick="login"
             android:text="登录"
             tools:ignore="OnClick" />
+
+
     </RelativeLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="写入"
+        android:onClick="save"
+        android:id="@+id/save"
+        android:layout_gravity="right"
+        />
 
 
 
